@@ -1,1 +1,15 @@
 # Steinfeld
+
+This repository contains data, scripts, and analysis results related to Origen's quotations of Romans, 2 Corithians, and Galatians. Five of the data files were compiled by Matthew Steinfeld and one was compiled by Richard Mallett. The scripts and analysis are by Tim Finney.
+
+The files are contained in the following directories:
+ 
+ * `data`: data matrices
+ * `dist`: distance matrices
+ * `scripts`: R scripts used for analysis
+ * `cmds`: classical multiple scaling results
+ * `dc`: divisive clustering results
+ * `GD`: "Group Distances" results
+ * `pam`: partitioning around medoids results
+ * `RD`: "Ranked Distances" results.
+ 
