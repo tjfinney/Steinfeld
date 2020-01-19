@@ -1,0 +1,3 @@
+Use convert (ImageMagick) to get a frame from an animated GIF. E.g.
+
+convert Gal-Steinfeld-Origen.15.SMD.gif[0] Gal-Steinfeld-Origen.15.SMD.png
