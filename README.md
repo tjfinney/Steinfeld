@@ -4,7 +4,9 @@ This repository contains data, scripts, and analysis results related to Origen's
 
 The files are contained in the following directories:
  
- * `data`: data matrices
+ `data`
+ : data matrices
+
  * `dist`: distance matrices
  * `scripts`: R scripts used for analysis
  * `cmds`: classical multiple scaling results
