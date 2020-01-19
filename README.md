@@ -13,4 +13,6 @@ The files are contained in the following directories:
  * `pam`: partitioning around medoids results
  * `RD`: "Ranked Distances" results.
  
+ The repository is stored at Zenodo and can be accessed through the following digital object identifier:
+ 
 [![DOI](https://zenodo.org/badge/234500651.svg)](https://zenodo.org/badge/latestdoi/234500651)
